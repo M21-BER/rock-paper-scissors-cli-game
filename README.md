@@ -1,7 +1,7 @@
 ------rock-paper-scissors-cli-game-------
-User types r or R for Rock 
-User types p or P for Paper 
-User types s or S for Scissors 
+* User types r or R for Rock 
+* User types p or P for Paper 
+* User types s or S for Scissors 
 
 ---Game Logic
 1. [Rock] beats [Scissors]
